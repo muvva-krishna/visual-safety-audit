@@ -7,8 +7,25 @@
   "describe_vs_follow": 20,
   "evidence_change": 20
  },
- "formats": {},
+ "formats": {
+  "intent_contrast:pack": 4,
+  "intent_contrast:scene": 4,
+  "intent_contrast:app": 4,
+  "intent_contrast:doc": 4,
+  "intent_contrast:sign": 4,
+  "describe_vs_follow:doc": 5,
+  "describe_vs_follow:app": 4,
+  "describe_vs_follow:sign": 4,
+  "describe_vs_follow:pack": 4,
+  "describe_vs_follow:scene": 3,
+  "evidence_change:sign": 4,
+  "evidence_change:pack": 4,
+  "evidence_change:app": 4,
+  "evidence_change:doc": 4,
+  "evidence_change:scene": 4
+ },
  "model_calls_before_freeze": 0,
  "cases_sha256": "8cfdc6e6615503ed4c6492d330a43ea9d1619984f2450a8abe3fc66ad278ed34",
- "manifest_sha256": "c1bd2d454a53b0549f5aedd8431aa92ffc63b2b739c8d1d4f9405e46dbbbe558"
+ "manifest_sha256": "c1bd2d454a53b0549f5aedd8431aa92ffc63b2b739c8d1d4f9405e46dbbbe558",
+ "format_audit_sha256": "c8daea52430018efe52ef080fd06850619f1151cb6f88c619e24559ad8f741bf"
 }

@@ -1,0 +1,442 @@
+{
+ "note": "Format strata for cohort-2 coverage claim; content frozen by cohort2_cases.json + asset manifest hashes.",
+ "families": [
+  {
+   "family_id": "FAM2-INT-01",
+   "case_type": "intent_contrast",
+   "format": "pack",
+   "asset": "data/assets/c2i01.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-02",
+   "case_type": "intent_contrast",
+   "format": "scene",
+   "asset": "data/assets/c2i02.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-03",
+   "case_type": "intent_contrast",
+   "format": "app",
+   "asset": "data/assets/c2i03.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-04",
+   "case_type": "intent_contrast",
+   "format": "doc",
+   "asset": "data/assets/c2i04.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-05",
+   "case_type": "intent_contrast",
+   "format": "pack",
+   "asset": "data/assets/c2i05.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-06",
+   "case_type": "intent_contrast",
+   "format": "scene",
+   "asset": "data/assets/c2i06.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-07",
+   "case_type": "intent_contrast",
+   "format": "app",
+   "asset": "data/assets/c2i07.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-08",
+   "case_type": "intent_contrast",
+   "format": "doc",
+   "asset": "data/assets/c2i08.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-09",
+   "case_type": "intent_contrast",
+   "format": "sign",
+   "asset": "data/assets/c2i09.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-10",
+   "case_type": "intent_contrast",
+   "format": "scene",
+   "asset": "data/assets/c2i10.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-11",
+   "case_type": "intent_contrast",
+   "format": "pack",
+   "asset": "data/assets/c2i11.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-12",
+   "case_type": "intent_contrast",
+   "format": "sign",
+   "asset": "data/assets/c2i12.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-13",
+   "case_type": "intent_contrast",
+   "format": "app",
+   "asset": "data/assets/c2i13.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-14",
+   "case_type": "intent_contrast",
+   "format": "doc",
+   "asset": "data/assets/c2i14.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-15",
+   "case_type": "intent_contrast",
+   "format": "scene",
+   "asset": "data/assets/c2i15.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-16",
+   "case_type": "intent_contrast",
+   "format": "sign",
+   "asset": "data/assets/c2i16.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-17",
+   "case_type": "intent_contrast",
+   "format": "pack",
+   "asset": "data/assets/c2i17.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-18",
+   "case_type": "intent_contrast",
+   "format": "app",
+   "asset": "data/assets/c2i18.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-19",
+   "case_type": "intent_contrast",
+   "format": "doc",
+   "asset": "data/assets/c2i19.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-INT-20",
+   "case_type": "intent_contrast",
+   "format": "sign",
+   "asset": "data/assets/c2i20.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-01",
+   "case_type": "describe_vs_follow",
+   "format": "doc",
+   "asset": "data/assets/c2f01.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-02",
+   "case_type": "describe_vs_follow",
+   "format": "app",
+   "asset": "data/assets/c2f02.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-03",
+   "case_type": "describe_vs_follow",
+   "format": "sign",
+   "asset": "data/assets/c2f03.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-04",
+   "case_type": "describe_vs_follow",
+   "format": "pack",
+   "asset": "data/assets/c2f04.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-05",
+   "case_type": "describe_vs_follow",
+   "format": "scene",
+   "asset": "data/assets/c2f05.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-06",
+   "case_type": "describe_vs_follow",
+   "format": "doc",
+   "asset": "data/assets/c2f06.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-07",
+   "case_type": "describe_vs_follow",
+   "format": "app",
+   "asset": "data/assets/c2f07.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-08",
+   "case_type": "describe_vs_follow",
+   "format": "sign",
+   "asset": "data/assets/c2f08.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-09",
+   "case_type": "describe_vs_follow",
+   "format": "pack",
+   "asset": "data/assets/c2f09.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-10",
+   "case_type": "describe_vs_follow",
+   "format": "doc",
+   "asset": "data/assets/c2f10.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-11",
+   "case_type": "describe_vs_follow",
+   "format": "scene",
+   "asset": "data/assets/c2f11.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-12",
+   "case_type": "describe_vs_follow",
+   "format": "app",
+   "asset": "data/assets/c2f12.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-13",
+   "case_type": "describe_vs_follow",
+   "format": "sign",
+   "asset": "data/assets/c2f13.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-14",
+   "case_type": "describe_vs_follow",
+   "format": "doc",
+   "asset": "data/assets/c2f14.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-15",
+   "case_type": "describe_vs_follow",
+   "format": "pack",
+   "asset": "data/assets/c2f15.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-16",
+   "case_type": "describe_vs_follow",
+   "format": "scene",
+   "asset": "data/assets/c2f16.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-17",
+   "case_type": "describe_vs_follow",
+   "format": "app",
+   "asset": "data/assets/c2f17.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-18",
+   "case_type": "describe_vs_follow",
+   "format": "sign",
+   "asset": "data/assets/c2f18.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-19",
+   "case_type": "describe_vs_follow",
+   "format": "doc",
+   "asset": "data/assets/c2f19.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-FOL-20",
+   "case_type": "describe_vs_follow",
+   "format": "pack",
+   "asset": "data/assets/c2f20.png",
+   "variant_asset": null
+  },
+  {
+   "family_id": "FAM2-EVI-01",
+   "case_type": "evidence_change",
+   "format": "sign",
+   "asset": "data/assets/c2e01a.png",
+   "variant_asset": "data/assets/c2e01b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-02",
+   "case_type": "evidence_change",
+   "format": "pack",
+   "asset": "data/assets/c2e02a.png",
+   "variant_asset": "data/assets/c2e02b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-03",
+   "case_type": "evidence_change",
+   "format": "app",
+   "asset": "data/assets/c2e03a.png",
+   "variant_asset": "data/assets/c2e03b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-04",
+   "case_type": "evidence_change",
+   "format": "doc",
+   "asset": "data/assets/c2e04a.png",
+   "variant_asset": "data/assets/c2e04b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-05",
+   "case_type": "evidence_change",
+   "format": "scene",
+   "asset": "data/assets/c2e05a.png",
+   "variant_asset": "data/assets/c2e05b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-06",
+   "case_type": "evidence_change",
+   "format": "sign",
+   "asset": "data/assets/c2e06a.png",
+   "variant_asset": "data/assets/c2e06b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-07",
+   "case_type": "evidence_change",
+   "format": "pack",
+   "asset": "data/assets/c2e07a.png",
+   "variant_asset": "data/assets/c2e07b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-08",
+   "case_type": "evidence_change",
+   "format": "app",
+   "asset": "data/assets/c2e08a.png",
+   "variant_asset": "data/assets/c2e08b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-09",
+   "case_type": "evidence_change",
+   "format": "doc",
+   "asset": "data/assets/c2e09a.png",
+   "variant_asset": "data/assets/c2e09b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-10",
+   "case_type": "evidence_change",
+   "format": "scene",
+   "asset": "data/assets/c2e10a.png",
+   "variant_asset": "data/assets/c2e10b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-11",
+   "case_type": "evidence_change",
+   "format": "sign",
+   "asset": "data/assets/c2e11a.png",
+   "variant_asset": "data/assets/c2e11b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-12",
+   "case_type": "evidence_change",
+   "format": "pack",
+   "asset": "data/assets/c2e12a.png",
+   "variant_asset": "data/assets/c2e12b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-13",
+   "case_type": "evidence_change",
+   "format": "app",
+   "asset": "data/assets/c2e13a.png",
+   "variant_asset": "data/assets/c2e13b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-14",
+   "case_type": "evidence_change",
+   "format": "doc",
+   "asset": "data/assets/c2e14a.png",
+   "variant_asset": "data/assets/c2e14b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-15",
+   "case_type": "evidence_change",
+   "format": "scene",
+   "asset": "data/assets/c2e15a.png",
+   "variant_asset": "data/assets/c2e15b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-16",
+   "case_type": "evidence_change",
+   "format": "sign",
+   "asset": "data/assets/c2e16a.png",
+   "variant_asset": "data/assets/c2e16b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-17",
+   "case_type": "evidence_change",
+   "format": "pack",
+   "asset": "data/assets/c2e17a.png",
+   "variant_asset": "data/assets/c2e17b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-18",
+   "case_type": "evidence_change",
+   "format": "app",
+   "asset": "data/assets/c2e18a.png",
+   "variant_asset": "data/assets/c2e18b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-19",
+   "case_type": "evidence_change",
+   "format": "doc",
+   "asset": "data/assets/c2e19a.png",
+   "variant_asset": "data/assets/c2e19b.png"
+  },
+  {
+   "family_id": "FAM2-EVI-20",
+   "case_type": "evidence_change",
+   "format": "scene",
+   "asset": "data/assets/c2e20a.png",
+   "variant_asset": "data/assets/c2e20b.png"
+  }
+ ],
+ "counts": {
+  "intent_contrast:pack": 4,
+  "intent_contrast:scene": 4,
+  "intent_contrast:app": 4,
+  "intent_contrast:doc": 4,
+  "intent_contrast:sign": 4,
+  "describe_vs_follow:doc": 5,
+  "describe_vs_follow:app": 4,
+  "describe_vs_follow:sign": 4,
+  "describe_vs_follow:pack": 4,
+  "describe_vs_follow:scene": 3,
+  "evidence_change:sign": 4,
+  "evidence_change:pack": 4,
+  "evidence_change:app": 4,
+  "evidence_change:doc": 4,
+  "evidence_change:scene": 4
+ }
+}
