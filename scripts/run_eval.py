@@ -34,6 +34,38 @@ def build_calls(cond, only=None):
             calls.append((fid, m + "_sup_mit", ROOT / f["image"]["asset"], f[m]["request"]))
         return calls
     calls = []
+    if cond == "c2supplement":
+        T = {f["family_id"]: f for f in json.loads((ROOT/"data"/"cohort2_cases.json").read_text())}
+        f = T["FAM2-FOL-12"]
+        return [("FAM2-FOL-12", "unsafe_sup_base", ROOT / f["image"]["asset"], f["unsafe"]["request"]),
+                ("FAM2-FOL-12", "unsafe_sup_mit", ROOT / f["image"]["asset"], f["unsafe"]["request"])]
+    if cond == "c2base" or cond == "c2mit":
+        for f in json.loads((ROOT/"data"/"cohort2_cases.json").read_text()):
+            fid = f["family_id"]
+            if only and fid not in only: continue
+            base_img = ROOT / f["image"]["asset"]
+            calls.append((fid, "benign", base_img, f["benign"]["request"]))
+            calls.append((fid, "unsafe", base_img, f["unsafe"]["request"]))
+            if f.get("variant_image"):
+                v = f["variant_image"]; fm = f["evidence_change"]["focal_member"]
+                calls.append((fid, fm+"_variant", ROOT / v["asset"], f[fm]["request"]))
+        return calls
+    if cond == "c2text":
+        for f in json.loads((ROOT/"data"/"cohort2_cases.json").read_text()):
+            if f["family_id"] in C2_TEXTONLY:
+                calls.append((f["family_id"], "benign", None, f["benign"]["request"]))
+                calls.append((f["family_id"], "unsafe", None, f["unsafe"]["request"]))
+        return calls
+    if cond == "c2repeat":
+        T = {f["family_id"]: f for f in json.loads((ROOT/"data"/"cohort2_cases.json").read_text())}
+        for fid, m in sorted(C2_REPEAT):
+            f = T[fid]
+            if m.endswith("_variant"):
+                fm = m.replace("_variant",""); img = ROOT / f["variant_image"]["asset"]; req = f[fm]["request"]
+            else:
+                img = ROOT / f["image"]["asset"]; req = f[m]["request"]
+            calls.append((fid, m, img, req))
+        return calls
     for f in load_cases("dev" if cond in ("devbase", "devmit") else "test"):
         fid = f["family_id"]
         if only and fid not in only: continue
@@ -65,6 +97,15 @@ def build_calls(cond, only=None):
     return calls
 
 TEXTONLY_FAMS = {"FAM-T-INT-01","FAM-T-INT-02","FAM-T-FOL-04","FAM-T-EVI-01","FAM-T-EVI-03","FAM-T-EVI-05"}
+# Cohort-2 text-ablation: 3 families per type (diagnostic across all case types)
+C2_TEXTONLY = {"FAM2-INT-03","FAM2-INT-13","FAM2-INT-18",
+               "FAM2-FOL-04","FAM2-FOL-12","FAM2-FOL-19",
+               "FAM2-EVI-02","FAM2-EVI-05","FAM2-EVI-11"}
+C2_REPEAT = {("FAM2-INT-01","benign"),("FAM2-INT-01","unsafe"),("FAM2-INT-13","unsafe"),
+             ("FAM2-FOL-04","unsafe"),("FAM2-FOL-19","unsafe"),("FAM2-EVI-02","benign"),
+             ("FAM2-EVI-02","unsafe"),("FAM2-EVI-05","unsafe_variant"),
+             ("FAM2-EVI-11","unsafe_variant"),("FAM2-APP-X","unsafe")}
+C2_REPEAT = {(f,m) for (f,m) in C2_REPEAT if f != "FAM2-APP-X"} | {("FAM2-INT-18","unsafe")}
 # Run-1 truncation supplement: unique locked unsafe cases that ended MAX_TOKENS
 # (3 in baseline + FOL-04 in repeat). Rerun at 2048 as a labelled supplement;
 # locked headline rows are NOT overwritten.
@@ -84,8 +125,8 @@ def run_one(args):
                 out = generate(None, "image/png", req, system=None, max_tokens=1024)
             else:
                 b64, mime = image_to_b64(imgpath)
-                out = generate(b64, mime, req, max_tokens=(2048 if COND == "supplement" else 1024),
-                               system=MITIGATION_SYSTEM if COND in ("mitigation", "devmit") or (COND == "supplement" and member.endswith("_mit")) else None)
+                out = generate(b64, mime, req, max_tokens=(2048 if COND in ("supplement","c2supplement") else 1024),
+                               system=MITIGATION_SYSTEM if COND in ("mitigation", "devmit", "c2mit") or (COND in ("supplement","c2supplement") and member.endswith("_mit")) else None)
             return {"family_id": fid, "member": member, "image": str(imgpath) if imgpath else None,
                     "request": req, "response": out["text"], "usage": out["usage"],
                     "condition": COND, "model": out["usage"]["model"],

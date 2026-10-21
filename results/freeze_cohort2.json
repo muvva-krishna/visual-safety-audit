@@ -1,0 +1,14 @@
+{
+ "frozen_at": "2026-10-21T10:52:12+00:00",
+ "cohort": "cohort2",
+ "families": 60,
+ "types": {
+  "intent_contrast": 20,
+  "describe_vs_follow": 20,
+  "evidence_change": 20
+ },
+ "formats": {},
+ "model_calls_before_freeze": 0,
+ "cases_sha256": "8cfdc6e6615503ed4c6492d330a43ea9d1619984f2450a8abe3fc66ad278ed34",
+ "manifest_sha256": "c1bd2d454a53b0549f5aedd8431aa92ffc63b2b739c8d1d4f9405e46dbbbe558"
+}

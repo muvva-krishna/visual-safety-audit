@@ -1,0 +1,562 @@
+[
+ {
+  "file": "data/assets/c2e01a.png",
+  "sha256": "0f0cd5c8d5b23cd2c3df090884ee42372333a445017ddc259b2bbb57416b22de",
+  "bytes": 13032,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e01b.png",
+  "sha256": "4def533be7400e269e814f77b8140bf1451ffa1ca2f44b429323cba6ad2129d6",
+  "bytes": 13355,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e02a.png",
+  "sha256": "9086763534008413af7f3eccdb552bcb6f1bb49b58b088f98c34b2e9fa8a2621",
+  "bytes": 14369,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e02b.png",
+  "sha256": "4036f322c8d79ea7e8a0d58660c1c76e2b362f0538ba39fd90d8ec24526fb0e6",
+  "bytes": 15348,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e03a.png",
+  "sha256": "8e3a0e2e5d400053a5112151901ff7b92624ac5722c8fd3ceae2cb201ee38b69",
+  "bytes": 13663,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e03b.png",
+  "sha256": "ca48fb5067fdc677a164b393056da12e843c2a8d564d2475a1d0f721c94413e6",
+  "bytes": 14924,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e04a.png",
+  "sha256": "e050cc1c3777c0a3fc3e5ab503f841c822d2d86b0519df4e964dc84c71d06c78",
+  "bytes": 13840,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e04b.png",
+  "sha256": "571e993a312ae149eca3a946166ff5dd4f939e264f1cea8939489da88e774272",
+  "bytes": 14557,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e05a.png",
+  "sha256": "865f1c13d8cf823d0da63cb5e3285cf69dd2dbcb0ec2bf263b6f5a9126053f94",
+  "bytes": 14907,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e05b.png",
+  "sha256": "91f0f113c5047d2349460b5fddc46a8135f52b12b856b72804e5d0b67345944e",
+  "bytes": 14747,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e06a.png",
+  "sha256": "2135d9dfcdd1d094429a79bc9d7add5c4930eade5e83cbbe663e1584b0193ad9",
+  "bytes": 14344,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e06b.png",
+  "sha256": "f6cd097aa6dba208793cf4b47b678768504557c8b5953141bd678c94eaef680d",
+  "bytes": 14338,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e07a.png",
+  "sha256": "016b913be3afae7e34184e466c20eee683d637402e4e3244d2be8b43d3c9633f",
+  "bytes": 13231,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e07b.png",
+  "sha256": "ccff81e23a9386e0027aaae7c5ce6263d4cf7f5bd0279215867499acd1e0f02b",
+  "bytes": 13104,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e08a.png",
+  "sha256": "fecf837c0c89627bd123da7f415094ef12de52f8614e9bc575d2c7314e6e183b",
+  "bytes": 16205,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e08b.png",
+  "sha256": "b7bd2b601dd54db0b7111990fa3d87c5f3153eedd3f199a9195bdb4af3762f40",
+  "bytes": 15242,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e09a.png",
+  "sha256": "257083c0b5225e36b9279823e84f781ff4be95b8622265f31609b1221a339bb3",
+  "bytes": 17196,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e09b.png",
+  "sha256": "10b77343b5d486236e802a395af7cef5e32640ec32b98eec30bb7e3ae3a21b8f",
+  "bytes": 17032,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e10a.png",
+  "sha256": "4efc997f48448326fb3f9e99048e18f0fe9788323178e87da0b7833a67cb094f",
+  "bytes": 10593,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e10b.png",
+  "sha256": "4efc997f48448326fb3f9e99048e18f0fe9788323178e87da0b7833a67cb094f",
+  "bytes": 10593,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e11a.png",
+  "sha256": "1dd24616a78b495490412e044a04b86d3bcc6d1cd9d28e25144a776ab86c33c5",
+  "bytes": 15877,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e11b.png",
+  "sha256": "9e387f959c63fe97fe2433b4d5d961366b7c6aaabc4ede69adeaf6ac735398b9",
+  "bytes": 16369,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e12a.png",
+  "sha256": "bc57770860bc3e25d89aba2218f0fa8fdb35260c516fc6983c41819ed12259f2",
+  "bytes": 15726,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e12b.png",
+  "sha256": "cbc1c96c4a01d21e2d649b2d0759e4ca92824b908ed36e109e79aa7d54e5f557",
+  "bytes": 15139,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e13a.png",
+  "sha256": "28583d5c2c914d2e1d38c9969d93b3121d65d2750a3c228affbf9a0eaca0b2fe",
+  "bytes": 11835,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e13b.png",
+  "sha256": "a4bdbdc890e46a95108223720ae320141aa8120c31585aec510b1d7fd5ab08a0",
+  "bytes": 12547,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e14a.png",
+  "sha256": "020674870c68aba01077cae25c4f9b1392af83ed7fa012cb51c62e766ae14e98",
+  "bytes": 19175,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e14b.png",
+  "sha256": "3719765a505cb8d05181d51cb36446023158db5537da9dc2728e96348b729aea",
+  "bytes": 20204,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e15a.png",
+  "sha256": "a3c1d816aa499d41cd108c7f104736859d2a7792c6f78ad00a20f6693bf8afce",
+  "bytes": 13760,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e15b.png",
+  "sha256": "a3c1d816aa499d41cd108c7f104736859d2a7792c6f78ad00a20f6693bf8afce",
+  "bytes": 13760,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e16a.png",
+  "sha256": "6f45156bae3988050a92b63bba02c60c0409d661059f15dd12f2b2a53ee2358e",
+  "bytes": 14717,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e16b.png",
+  "sha256": "3f0d5c8b2a549f0d5ad3f00633bdfb4ff0fcad74878272c8d3e846d5c994cf25",
+  "bytes": 14327,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e17a.png",
+  "sha256": "e6c98c31abce3d555dd06cc937029b1fc038b5d3ac0099911cf118907d88cfd4",
+  "bytes": 12774,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e17b.png",
+  "sha256": "cab28e6264b8d2f2b2e9824a7f93ac2842d0fc87db9affd3fa171ac8e2e361cc",
+  "bytes": 12690,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e18a.png",
+  "sha256": "305cb04303d897deb2cf0b177c302146b85e754762c3145cac8f2eeb6bbf9a7d",
+  "bytes": 17946,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e18b.png",
+  "sha256": "afa35af1289a3bb1835ac7a057a53cb984243ea2afb217d280d68dcc8bdda751",
+  "bytes": 17881,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e19a.png",
+  "sha256": "b075da5c00ac32309bee8ef093c1af7b47362eefe3250d2021d16ec102a10009",
+  "bytes": 18706,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e19b.png",
+  "sha256": "c2ea95d65b4747fdfe829428691f5fdb008064a3d60e4565faad60b4b8364675",
+  "bytes": 18632,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e20a.png",
+  "sha256": "f7d8ad2a1546d9497be94c12bbc6675bb0aaf837c1a668ff31f479f06403d87e",
+  "bytes": 16828,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2e20b.png",
+  "sha256": "f7d8ad2a1546d9497be94c12bbc6675bb0aaf837c1a668ff31f479f06403d87e",
+  "bytes": 16828,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f01.png",
+  "sha256": "5d9091840e38053ce5c5c83e5a5759cc4ac8306115173dca191256c6c1e65422",
+  "bytes": 30526,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f02.png",
+  "sha256": "c0e9a12dbbfc556f21bed4b53f06a1976c94b980553bba62cec5e2ce24b18db0",
+  "bytes": 16927,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f03.png",
+  "sha256": "5eab1ec9fa5ec2d17c512543cf91007c14017846f72a5cbbf226174f45c31a93",
+  "bytes": 19979,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f04.png",
+  "sha256": "5a930938f9980475c29c9d93d54842ee9559cf0d9eef2800cb90a9eb87cf1409",
+  "bytes": 27147,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f05.png",
+  "sha256": "476b563b8f633091219504bac9442e55833d54bd39fcdf2d05e64943420f2350",
+  "bytes": 20465,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f06.png",
+  "sha256": "2f44d8961c72ffc2e21e713abeef9085158ea5b93062a6aef3bb99c61ff20322",
+  "bytes": 27831,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f07.png",
+  "sha256": "3318022f73fc86c44daa7bc68e3c574a53b2ab654bf180ceadf61d057447a7c5",
+  "bytes": 17019,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f08.png",
+  "sha256": "e16a193ee55081d6afef4318acec6e86b7a74d78e5d32ca60835763457e72856",
+  "bytes": 18203,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f09.png",
+  "sha256": "108868a2252735458439ab08b2b2c7d5a8b7bba9f676ea2444ded103101aacb6",
+  "bytes": 21154,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f10.png",
+  "sha256": "98d010d5eaa5a72d93e5807f84d8401b30becf48990f5d08a658c7e9d5e51653",
+  "bytes": 28169,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f11.png",
+  "sha256": "80f7ba8ba642861b2bbf8216d7109aceb009732dbefb7997bee4cb2014e2fe6b",
+  "bytes": 20746,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f12.png",
+  "sha256": "3c01dc97e894db11d9af4bfccd0f06be1525cbdb805a94eae01292647921c65b",
+  "bytes": 15821,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f13.png",
+  "sha256": "24ccc61bc92b09f335bfdd32fc480031671b16dc691833e9fde822c602e47719",
+  "bytes": 18994,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f14.png",
+  "sha256": "850cfc1dbd5fef2cb01eb8215895548a0287081ac5e1f0f251520e2340992ab2",
+  "bytes": 27814,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f15.png",
+  "sha256": "dd7e3916b95f531cece38f1893731e34be48d54c438aadc3248dc0d512ce6077",
+  "bytes": 21058,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f16.png",
+  "sha256": "5338491cf22a6a33f551f8dcdf0101ed4a429191bd61ffbaee3116c64c9c0932",
+  "bytes": 18917,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f17.png",
+  "sha256": "e470210128b0c812d275be79e14d70eee38e60846a59803c7221b028b8875fe3",
+  "bytes": 14320,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f18.png",
+  "sha256": "96f3f0d87e884b3dada1cbba49bffe6c336ddb12fa2ceabdcfab827039e4b798",
+  "bytes": 20462,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f19.png",
+  "sha256": "9d74654021423d50e0e717e66261c5291ca95001ff71849f0f07877922b8a40b",
+  "bytes": 27649,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2f20.png",
+  "sha256": "e6896220ba9ddb6a21b4ba0c2a6c093cc19985d5217fd4e717da58428cd1a080",
+  "bytes": 22218,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i01.png",
+  "sha256": "443d821922c6873cc02983332cac5bf0aa16b1519cc6081748d5eb922fdfb54d",
+  "bytes": 32292,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i02.png",
+  "sha256": "e1ef366f5100323b649f280b585ee02d88a7020ed348c2e9f5c5713b222e1019",
+  "bytes": 18343,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i03.png",
+  "sha256": "0f431f3c07438bc496b7c089ef5f4998a54c55d7419eda637ada4c1ba097eb71",
+  "bytes": 18861,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i04.png",
+  "sha256": "060fc0dae1373462da2a832bcbbbfae1042f9068a8a8ad4b6b7812dacf45d479",
+  "bytes": 30216,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i05.png",
+  "sha256": "b8350145a19399016539d2c0df470fafef29217e30569abad74f098cb4c8d2da",
+  "bytes": 25805,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i06.png",
+  "sha256": "d24465f712d2fe408a26637a5102c6961a133ed5c55fd0fc6a014e105d664415",
+  "bytes": 23014,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i07.png",
+  "sha256": "cb61d8620068f15d8471048080334a3341631788059e0f2493569e79b512524a",
+  "bytes": 18439,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i08.png",
+  "sha256": "881e2e3e54d1d048d70fc58a9a8d5a07046ef3b0aad260e3683beac5bbd12caf",
+  "bytes": 28392,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i09.png",
+  "sha256": "f53456f5f1678d648b2a75222549b6be9f3e597f23df47df82a716ea9fa26e7e",
+  "bytes": 18810,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i10.png",
+  "sha256": "e293cb6757f01ebdc9fdbae4787055687aefcd7dc7b0d0c36bdd00ed9b570fd6",
+  "bytes": 19034,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i11.png",
+  "sha256": "fcb2bc197844134f28f2fc1d0bb1b0c441e6117611eb4da29d8305232a3382c1",
+  "bytes": 24176,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i12.png",
+  "sha256": "9153cbb40db075451542fd680a868ddfad594f63e936c279a9e742aae892382d",
+  "bytes": 20467,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i13.png",
+  "sha256": "d34778fb9ab2f3a04040782d26fffb1b3e6e3e20ac91c4ac6cfa95afa73b93f2",
+  "bytes": 20198,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i14.png",
+  "sha256": "dc66367086d026bfb3b738c7369e73eae2c4d31c49821f7c389b4cbf65f42bee",
+  "bytes": 26559,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i15.png",
+  "sha256": "5d8687a97474861fa2fe67e0870c381a90af889e0289180c6eb22eee0f67910a",
+  "bytes": 18580,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i16.png",
+  "sha256": "2ecd97bc7e7564f0f38cde99b798e96b9375f7bf325d84bd9045eb0eba1b6ccb",
+  "bytes": 19644,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i17.png",
+  "sha256": "c71bc53c40bdb8ea21ce60336f0ec5ad8e3d92bf36fc3ad5e807439036bb582b",
+  "bytes": 23778,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i18.png",
+  "sha256": "9a1b24ef3015c4f2e3c47a0b221414a35952435486820d1447ab5c273de54c16",
+  "bytes": 16248,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i19.png",
+  "sha256": "c820d07bb10bc8e8b9e4573dd3ca344bf415c52174c2d0605268d6b8997db311",
+  "bytes": 27602,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/c2i20.png",
+  "sha256": "8e8e6efb82653ad396d1ee3bf8b502c022f3a1368d7cce3fbfd2a99e3e4906ab",
+  "bytes": 22001,
+  "source": "synthetic-original (scripts/make_cohort2.py, PIL)",
+  "licence": "original-created-for-pilot"
+ }
+]

@@ -39,12 +39,22 @@ kept in `report/stage1_feasibility.md` for the audit trail only.
 4. Baseline + mitigation — DONE (run 2): 162 locked calls + 8-call truncation
    supplement, human-scored with explicit per-output rationales, B-adjudicated
    22/22 (packet, seed, labels in `results/adjudication/`).
-5. Report — DONE: `report/final_report.md` + `report/finding_cards.md` +
-   `results/run_log.md` (run-1 archived, headline is run 2).
+   Cohort 2 — DONE: 60 fresh families (new formats), separately frozen
+   (`results/freeze_cohort2.json`), 310 calls, adjudicated 35/38 with 4
+   corrections. Report: `report/cohort2_report.md`.
+5. Report — DONE: `report/final_report.md` + `report/cohort2_report.md` +
+   `report/finding_cards.md` + `results/run_log.md`.
 
 ## Headline (run 2, n=30 families, Wilson 95%)
 Baseline == mitigation. Strict-policy noncompliance: 2/30 (6.7% [1.9,21.3]);
 CONFIRMED-failure noncompliance (F1 gate-code disclosure only, excl.
 policy-dependent F2 guest-password case): 1/30 (3.3% [0.6,16.7]). Benign
 success 30/30, false refusals 0/30, paired 28/30. Zero measured mitigation
-effect. Total spend ≈ $0.64 of $10 cap (user allowance $2).
+effect. Total spend ≈ $1.08 (run 1 $0.33 archived + run 2 $0.31 + cohort 2 $0.44) of $10
+cap (user allowance $2). Current ledger: `results/token_usage.json`.
+
+## Combined picture (90 families; cohort 2 is secondary — designed after run 1)
+Strict noncompliance: baseline 4/90 (4.4% [1.7,10.9]). Confirmed failures:
+baseline 3/90 (3.3% [1.1,9.4]) — run-1 gate code, c2 unit code, c2 garage entry.
+Mitigation effect: zero on run 1; c2 2/60→3/60 strict (+1.67pp [0,5], not a
+claim). Pitch: small independently-run eval, no general safety rate.
