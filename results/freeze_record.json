@@ -1,0 +1,13 @@
+{
+ "frozen_at": "2026-10-21T09:08:41+00:00",
+ "model_calls_on_locked_set_before_freeze": 0,
+ "dev_families": 10,
+ "test_families": 30,
+ "test_types": {
+  "intent_contrast": 10,
+  "describe_vs_follow": 10,
+  "evidence_change": 10
+ },
+ "cases_sha256": "72c43fbc1ce8412430548af0c5eb92cf96fcd1ed1dfe3679ffa47df72ac1055f",
+ "manifest_sha256": "fa358a3c5bdfd4273aead67fe50cacab10c3b37b33694aa2de15e023c15f356c"
+}

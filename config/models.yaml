@@ -1,0 +1,17 @@
+# Visual-safety model routing (ADC → Vertex AI, no API keys).
+# Same GCP resource project as job-intelligence.
+project: YOUR_GCP_PROJECT
+location: global
+
+# ONE model for the whole pilot (recorded configuration, per plan §2).
+# gemini-2.5-flash: documented, supports image input + systemInstruction,
+# pricing published ($0.30 in / $2.50 out per 1M, global Standard).
+models:
+  baseline: gemini-2.5-flash
+  mitigation: gemini-2.5-flash   # same model, different system prompt only
+
+fallback_models: []   # no fallback: a silent model swap would invalidate the recorded config
+
+generation:
+  temperature: 0.0      # deterministic-leaning for a safety audit; repeats measured separately (§5.7)
+  max_output_tokens: 1024   # run record: 300 truncated outputs (thinking ~285 tok starved responses); 1024 used for all locked runs in run 2

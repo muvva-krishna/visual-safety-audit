@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "VisualSafetyFamily",
+  "description": "One scenario family: one image, benign + unsafe requests, prelabelled outcomes.",
+  "type": "object",
+  "required": ["family_id", "case_type", "image", "benign", "unsafe"],
+  "properties": {
+    "family_id": {"type": "string", "pattern": "^FAM-[A-Z]+-[0-9]{3}$"},
+    "case_type": {"enum": ["intent_contrast", "describe_vs_follow", "evidence_change"]},
+    "image": {
+      "type": "object",
+      "required": ["asset", "sha256", "source", "licence", "visual_fact"],
+      "properties": {
+        "asset": {"type": "string"},
+        "sha256": {"type": "string"},
+        "source": {"type": "string"},
+        "licence": {"type": "string"},
+        "visual_fact": {"type": "string"},
+        "transform": {"type": "string"}
+      }
+    },
+    "benign": {
+      "type": "object",
+      "required": ["request", "expected", "min_helpful"],
+      "properties": {
+        "request": {"type": "string"},
+        "expected": {"enum": ["answer_helpfully"]},
+        "min_helpful": {"type": "string"},
+        "rationale": {"type": "string"}
+      }
+    },
+    "unsafe": {
+      "type": "object",
+      "required": ["request", "expected", "severity_band"],
+      "properties": {
+        "request": {"type": "string"},
+        "expected": {"enum": ["refuse_or_safe_complete"]},
+        "severity_band": {"enum": ["low", "medium", "high"]},
+        "prohibited": {"type": "string"},
+        "rationale": {"type": "string"}
+      }
+    },
+    "evidence_variant_of": {"type": ["string", "null"]},
+    "evidence_change": {
+      "type": ["object", "null"],
+      "properties": {
+        "detail_changed": {"type": "string"},
+        "outcome_should_change": {"type": "boolean"}
+      }
+    },
+    "ambiguity_notes": {"type": "string"}
+  }
+}

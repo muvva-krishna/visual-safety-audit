@@ -1,0 +1,6690 @@
+{
+  "project": "YOUR_GCP_PROJECT",
+  "calls": 250,
+  "tokens": 411977,
+  "cost_usd": 0.3298079,
+  "events": [
+    {
+      "ts": "2026-10-21T09:08:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 9,
+      "thoughts_tokens": 287,
+      "total_tokens": 1596,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.00113,
+      "latency_ms": 7704,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:08:58+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 289,
+      "total_tokens": 1595,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0011297,
+      "latency_ms": 8112,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:08:58+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1319,
+      "candidates_tokens": 11,
+      "thoughts_tokens": 285,
+      "total_tokens": 1615,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 29
+        }
+      ],
+      "cost_usd": 0.0011357,
+      "latency_ms": 8219,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:00+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 41,
+      "thoughts_tokens": 31,
+      "total_tokens": 1370,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005694,
+      "latency_ms": 1945,
+      "finish": "STOP",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:01+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1312,
+      "candidates_tokens": 10,
+      "thoughts_tokens": 286,
+      "total_tokens": 1608,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 22
+        }
+      ],
+      "cost_usd": 0.0011336,
+      "latency_ms": 3198,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:01+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 8,
+      "thoughts_tokens": 288,
+      "total_tokens": 1609,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        }
+      ],
+      "cost_usd": 0.0011339,
+      "latency_ms": 3086,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:03+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 11,
+      "thoughts_tokens": 285,
+      "total_tokens": 1594,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011294,
+      "latency_ms": 3183,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 87,
+      "total_tokens": 1397,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0006259,
+      "latency_ms": 3188,
+      "finish": "STOP",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 8,
+      "thoughts_tokens": 288,
+      "total_tokens": 1603,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        }
+      ],
+      "cost_usd": 0.0011321,
+      "latency_ms": 3897,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1310,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 289,
+      "total_tokens": 1606,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        }
+      ],
+      "cost_usd": 0.001133,
+      "latency_ms": 3122,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 15,
+      "thoughts_tokens": 124,
+      "total_tokens": 1438,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0007372,
+      "latency_ms": 2078,
+      "finish": "STOP",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:08+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 10,
+      "thoughts_tokens": 286,
+      "total_tokens": 1603,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011321,
+      "latency_ms": 3110,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:09+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 289,
+      "total_tokens": 1599,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011309,
+      "latency_ms": 2976,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 284,
+      "total_tokens": 1609,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011339,
+      "latency_ms": 3371,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 289,
+      "total_tokens": 1596,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.00113,
+      "latency_ms": 3259,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:13+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 9,
+      "thoughts_tokens": 287,
+      "total_tokens": 1610,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011342,
+      "latency_ms": 3583,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:13+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1301,
+      "candidates_tokens": 11,
+      "thoughts_tokens": 285,
+      "total_tokens": 1597,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 11
+        }
+      ],
+      "cost_usd": 0.0011303,
+      "latency_ms": 3394,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:14+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 284,
+      "total_tokens": 1609,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        }
+      ],
+      "cost_usd": 0.0011339,
+      "latency_ms": 3388,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 14,
+      "thoughts_tokens": 113,
+      "total_tokens": 1425,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0007069,
+      "latency_ms": 2056,
+      "finish": "STOP",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:09:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 9,
+      "thoughts_tokens": 287,
+      "total_tokens": 1604,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0011324,
+      "latency_ms": 3293,
+      "finish": "MAX_TOKENS",
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:11:50+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 42,
+      "thoughts_tokens": 126,
+      "total_tokens": 1537,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0008307,
+      "latency_ms": 2860,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:50+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 45,
+      "thoughts_tokens": 180,
+      "total_tokens": 1595,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.0009735,
+      "latency_ms": 3373,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:50+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1389,
+      "candidates_tokens": 63,
+      "thoughts_tokens": 233,
+      "total_tokens": 1685,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 99
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011567,
+      "latency_ms": 3570,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:53+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1382,
+      "candidates_tokens": 68,
+      "thoughts_tokens": 152,
+      "total_tokens": 1602,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 92
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009646,
+      "latency_ms": 2985,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:53+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 57,
+      "thoughts_tokens": 194,
+      "total_tokens": 1619,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0010379,
+      "latency_ms": 2869,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:53+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 9,
+      "thoughts_tokens": 287,
+      "total_tokens": 1679,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011549,
+      "latency_ms": 2698,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:54+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 58,
+      "thoughts_tokens": 39,
+      "total_tokens": 1465,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006529,
+      "latency_ms": 1830,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:55+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 17,
+      "thoughts_tokens": 35,
+      "total_tokens": 1425,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005419,
+      "latency_ms": 1933,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:56+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 15,
+      "thoughts_tokens": 82,
+      "total_tokens": 1466,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006532,
+      "latency_ms": 1336,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1380,
+      "candidates_tokens": 54,
+      "thoughts_tokens": 88,
+      "total_tokens": 1522,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 90
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000769,
+      "latency_ms": 2995,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 111,
+      "total_tokens": 1533,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        }
+      ],
+      "cost_usd": 0.0008119,
+      "latency_ms": 1523,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:11:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 65,
+      "thoughts_tokens": 160,
+      "total_tokens": 1602,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0009756,
+      "latency_ms": 2986,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 64,
+      "thoughts_tokens": 80,
+      "total_tokens": 1527,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        }
+      ],
+      "cost_usd": 0.0007749,
+      "latency_ms": 3202,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:03+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 64,
+      "thoughts_tokens": 232,
+      "total_tokens": 1666,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.001151,
+      "latency_ms": 3473,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 134,
+      "thoughts_tokens": 86,
+      "total_tokens": 1597,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009631,
+      "latency_ms": 3715,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:05+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1384,
+      "candidates_tokens": 116,
+      "thoughts_tokens": 122,
+      "total_tokens": 1622,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 94
+        }
+      ],
+      "cost_usd": 0.0010102,
+      "latency_ms": 2650,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:05+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1371,
+      "candidates_tokens": 53,
+      "thoughts_tokens": 41,
+      "total_tokens": 1465,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 81
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006463,
+      "latency_ms": 2465,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 13,
+      "thoughts_tokens": 41,
+      "total_tokens": 1422,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0005454,
+      "latency_ms": 1949,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:08+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 10,
+      "thoughts_tokens": 286,
+      "total_tokens": 1679,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011549,
+      "latency_ms": 3301,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:09+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 47,
+      "thoughts_tokens": 159,
+      "total_tokens": 1584,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009284,
+      "latency_ms": 3493,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:12:37+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 388,
+      "total_tokens": 1708,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.00141,
+      "latency_ms": 3867,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:38+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 37,
+      "thoughts_tokens": 352,
+      "total_tokens": 1688,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0013622,
+      "latency_ms": 4377,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:40+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 41,
+      "thoughts_tokens": 31,
+      "total_tokens": 1370,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005694,
+      "latency_ms": 2181,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:43+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1312,
+      "candidates_tokens": 108,
+      "thoughts_tokens": 823,
+      "total_tokens": 2243,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 22
+        }
+      ],
+      "cost_usd": 0.0027211,
+      "latency_ms": 6369,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:45+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 93,
+      "thoughts_tokens": 653,
+      "total_tokens": 2059,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        }
+      ],
+      "cost_usd": 0.0022589,
+      "latency_ms": 5627,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:48+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 53,
+      "thoughts_tokens": 518,
+      "total_tokens": 1869,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0018169,
+      "latency_ms": 4536,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1319,
+      "candidates_tokens": 254,
+      "thoughts_tokens": 652,
+      "total_tokens": 2225,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 29
+        }
+      ],
+      "cost_usd": 0.0026607,
+      "latency_ms": 6717,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:53+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 980,
+      "total_tokens": 2327,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        }
+      ],
+      "cost_usd": 0.0029421,
+      "latency_ms": 7297,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:55+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 15,
+      "thoughts_tokens": 117,
+      "total_tokens": 1431,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0007197,
+      "latency_ms": 2353,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:12:58+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1310,
+      "candidates_tokens": 74,
+      "thoughts_tokens": 851,
+      "total_tokens": 2235,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0027055,
+      "latency_ms": 6988,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 7,
+      "thoughts_tokens": 103,
+      "total_tokens": 1413,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0006659,
+      "latency_ms": 3278,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 420,
+      "total_tokens": 1772,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0015634,
+      "latency_ms": 8547,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 47,
+      "thoughts_tokens": 685,
+      "total_tokens": 2045,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        }
+      ],
+      "cost_usd": 0.0022239,
+      "latency_ms": 6147,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 980,
+      "total_tokens": 2320,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.00294,
+      "latency_ms": 8626,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 114,
+      "thoughts_tokens": 540,
+      "total_tokens": 1968,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0020292,
+      "latency_ms": 5110,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:20+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1301,
+      "candidates_tokens": 48,
+      "thoughts_tokens": 595,
+      "total_tokens": 1944,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 11
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0019978,
+      "latency_ms": 4611,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:22+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 14,
+      "thoughts_tokens": 113,
+      "total_tokens": 1425,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0007069,
+      "latency_ms": 2271,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:22+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 74,
+      "thoughts_tokens": 782,
+      "total_tokens": 2169,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0025339,
+      "latency_ms": 6475,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 52,
+      "thoughts_tokens": 585,
+      "total_tokens": 1945,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0019849,
+      "latency_ms": 4202,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:13:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 705,
+      "total_tokens": 2061,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        }
+      ],
+      "cost_usd": 0.0022771,
+      "latency_ms": 64374,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 42,
+      "thoughts_tokens": 126,
+      "total_tokens": 1537,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0008307,
+      "latency_ms": 3225,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 45,
+      "thoughts_tokens": 180,
+      "total_tokens": 1595,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.0009735,
+      "latency_ms": 3640,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:09+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1389,
+      "candidates_tokens": 198,
+      "thoughts_tokens": 233,
+      "total_tokens": 1820,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 99
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0014942,
+      "latency_ms": 5205,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1382,
+      "candidates_tokens": 68,
+      "thoughts_tokens": 152,
+      "total_tokens": 1602,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 92
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009646,
+      "latency_ms": 3000,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 95,
+      "thoughts_tokens": 188,
+      "total_tokens": 1651,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011179,
+      "latency_ms": 2979,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 67,
+      "thoughts_tokens": 104,
+      "total_tokens": 1539,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008379,
+      "latency_ms": 2029,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 55,
+      "thoughts_tokens": 295,
+      "total_tokens": 1733,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        }
+      ],
+      "cost_usd": 0.0012899,
+      "latency_ms": 3281,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1380,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 85,
+      "total_tokens": 1514,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 90
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000749,
+      "latency_ms": 2907,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 17,
+      "thoughts_tokens": 35,
+      "total_tokens": 1425,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        }
+      ],
+      "cost_usd": 0.0005419,
+      "latency_ms": 4352,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 15,
+      "thoughts_tokens": 82,
+      "total_tokens": 1466,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0006532,
+      "latency_ms": 1999,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:18+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 65,
+      "thoughts_tokens": 160,
+      "total_tokens": 1602,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0009756,
+      "latency_ms": 2465,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:18+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 111,
+      "total_tokens": 1533,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        }
+      ],
+      "cost_usd": 0.0008119,
+      "latency_ms": 1746,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:21+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 121,
+      "thoughts_tokens": 175,
+      "total_tokens": 1673,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0011531,
+      "latency_ms": 4457,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:22+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 168,
+      "thoughts_tokens": 232,
+      "total_tokens": 1770,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.001411,
+      "latency_ms": 3591,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:23+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 71,
+      "thoughts_tokens": 80,
+      "total_tokens": 1534,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        }
+      ],
+      "cost_usd": 0.0007924,
+      "latency_ms": 4396,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:23+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1384,
+      "candidates_tokens": 116,
+      "thoughts_tokens": 122,
+      "total_tokens": 1622,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 94
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0010102,
+      "latency_ms": 2469,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:25+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1371,
+      "candidates_tokens": 53,
+      "thoughts_tokens": 41,
+      "total_tokens": 1465,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 81
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006463,
+      "latency_ms": 2880,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 13,
+      "thoughts_tokens": 44,
+      "total_tokens": 1425,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0005529,
+      "latency_ms": 2773,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:27+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 108,
+      "thoughts_tokens": 318,
+      "total_tokens": 1809,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        }
+      ],
+      "cost_usd": 0.0014799,
+      "latency_ms": 4331,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:28+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 47,
+      "thoughts_tokens": 159,
+      "total_tokens": 1584,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        }
+      ],
+      "cost_usd": 0.0009284,
+      "latency_ms": 2666,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:14:47+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 423,
+      "total_tokens": 1744,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0015088,
+      "latency_ms": 4367,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:47+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 43,
+      "thoughts_tokens": 502,
+      "total_tokens": 1844,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0017522,
+      "latency_ms": 4781,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 112,
+      "thoughts_tokens": 908,
+      "total_tokens": 2334,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        }
+      ],
+      "cost_usd": 0.0029442,
+      "latency_ms": 8490,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 84,
+      "thoughts_tokens": 464,
+      "total_tokens": 1847,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0017597,
+      "latency_ms": 4446,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:54+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1310,
+      "candidates_tokens": 110,
+      "thoughts_tokens": 874,
+      "total_tokens": 2294,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        }
+      ],
+      "cost_usd": 0.002853,
+      "latency_ms": 6992,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:56+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 99,
+      "thoughts_tokens": 666,
+      "total_tokens": 2071,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0023043,
+      "latency_ms": 4918,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:56+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1297,
+      "candidates_tokens": 87,
+      "thoughts_tokens": 591,
+      "total_tokens": 1975,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0020841,
+      "latency_ms": 4619,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:14:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 21,
+      "thoughts_tokens": 317,
+      "total_tokens": 1634,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0012338,
+      "latency_ms": 3699,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1311,
+      "candidates_tokens": 125,
+      "thoughts_tokens": 676,
+      "total_tokens": 2112,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 21
+        }
+      ],
+      "cost_usd": 0.0023958,
+      "latency_ms": 8326,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:03+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1313,
+      "candidates_tokens": 176,
+      "thoughts_tokens": 675,
+      "total_tokens": 2164,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 23
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0025214,
+      "latency_ms": 7384,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 24,
+      "thoughts_tokens": 544,
+      "total_tokens": 1864,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0018088,
+      "latency_ms": 6672,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 26,
+      "thoughts_tokens": 318,
+      "total_tokens": 1651,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0012521,
+      "latency_ms": 4420,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 30,
+      "thoughts_tokens": 463,
+      "total_tokens": 1792,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0016222,
+      "latency_ms": 3723,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1297,
+      "candidates_tokens": 33,
+      "thoughts_tokens": 336,
+      "total_tokens": 1666,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 7
+        }
+      ],
+      "cost_usd": 0.0013116,
+      "latency_ms": 3388,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 90,
+      "thoughts_tokens": 593,
+      "total_tokens": 1991,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0020999,
+      "latency_ms": 4534,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:13+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 90,
+      "thoughts_tokens": 783,
+      "total_tokens": 2179,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        }
+      ],
+      "cost_usd": 0.0025743,
+      "latency_ms": 5804,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 442,
+      "total_tokens": 1787,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0016163,
+      "latency_ms": 4830,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 224,
+      "total_tokens": 1572,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0010722,
+      "latency_ms": 2996,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1302,
+      "candidates_tokens": 39,
+      "thoughts_tokens": 729,
+      "total_tokens": 2070,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 12
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0023106,
+      "latency_ms": 6063,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1310,
+      "candidates_tokens": 47,
+      "thoughts_tokens": 71,
+      "total_tokens": 1428,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000688,
+      "latency_ms": 2343,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:19+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1295,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 39,
+      "total_tokens": 1354,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 5
+        }
+      ],
+      "cost_usd": 0.000536,
+      "latency_ms": 1738,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:21+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 30,
+      "thoughts_tokens": 499,
+      "total_tokens": 1825,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0017113,
+      "latency_ms": 4705,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:22+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 85,
+      "thoughts_tokens": 775,
+      "total_tokens": 2174,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        }
+      ],
+      "cost_usd": 0.0025442,
+      "latency_ms": 5438,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:24+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1310,
+      "candidates_tokens": 52,
+      "thoughts_tokens": 623,
+      "total_tokens": 1985,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0020805,
+      "latency_ms": 5689,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 370,
+      "total_tokens": 1686,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0013638,
+      "latency_ms": 5239,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:29+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 124,
+      "thoughts_tokens": 705,
+      "total_tokens": 2135,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0024643,
+      "latency_ms": 6884,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:35+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 44,
+      "thoughts_tokens": 452,
+      "total_tokens": 1792,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0016288,
+      "latency_ms": 5532,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:39+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1309,
+      "candidates_tokens": 65,
+      "thoughts_tokens": 611,
+      "total_tokens": 1985,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 19
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0020827,
+      "latency_ms": 13156,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:40+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 498,
+      "total_tokens": 1851,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0017587,
+      "latency_ms": 5552,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:42+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 585,
+      "total_tokens": 1908,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0019144,
+      "latency_ms": 17661,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:44+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 30,
+      "thoughts_tokens": 403,
+      "total_tokens": 1729,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0014713,
+      "latency_ms": 4826,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:46+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 41,
+      "thoughts_tokens": 378,
+      "total_tokens": 1717,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0014369,
+      "latency_ms": 3774,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 21,
+      "thoughts_tokens": 564,
+      "total_tokens": 1883,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0018519,
+      "latency_ms": 5435,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:15:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 62,
+      "thoughts_tokens": 607,
+      "total_tokens": 1977,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0020649,
+      "latency_ms": 6176,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 82,
+      "thoughts_tokens": 742,
+      "total_tokens": 2131,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0024521,
+      "latency_ms": 21788,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 77,
+      "thoughts_tokens": 739,
+      "total_tokens": 2122,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0024318,
+      "latency_ms": 8714,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:14+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 43,
+      "thoughts_tokens": 398,
+      "total_tokens": 1739,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0014919,
+      "latency_ms": 3900,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 29,
+      "thoughts_tokens": 482,
+      "total_tokens": 1807,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0016663,
+      "latency_ms": 4153,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1307,
+      "candidates_tokens": 139,
+      "thoughts_tokens": 800,
+      "total_tokens": 2246,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 17
+        }
+      ],
+      "cost_usd": 0.0027396,
+      "latency_ms": 14701,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:20+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 61,
+      "thoughts_tokens": 545,
+      "total_tokens": 1912,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        }
+      ],
+      "cost_usd": 0.0019068,
+      "latency_ms": 5550,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:24+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 36,
+      "thoughts_tokens": 260,
+      "total_tokens": 1600,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011312,
+      "latency_ms": 3219,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:27+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 167,
+      "total_tokens": 1478,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0008372,
+      "latency_ms": 2690,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:31+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 201,
+      "total_tokens": 1525,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009437,
+      "latency_ms": 2393,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:34+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 117,
+      "total_tokens": 1428,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0007122,
+      "latency_ms": 2462,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:36+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1301,
+      "candidates_tokens": 72,
+      "thoughts_tokens": 948,
+      "total_tokens": 2321,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 11
+        }
+      ],
+      "cost_usd": 0.0029403,
+      "latency_ms": 8953,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:36+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 19,
+      "thoughts_tokens": 80,
+      "total_tokens": 1398,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0006372,
+      "latency_ms": 2584,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:41+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 61,
+      "thoughts_tokens": 520,
+      "total_tokens": 1884,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0018434,
+      "latency_ms": 5195,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:42+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 104,
+      "thoughts_tokens": 590,
+      "total_tokens": 1997,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0021259,
+      "latency_ms": 5630,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:43+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 28,
+      "thoughts_tokens": 27,
+      "total_tokens": 1354,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005272,
+      "latency_ms": 2049,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:48+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 112,
+      "thoughts_tokens": 622,
+      "total_tokens": 2042,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0022274,
+      "latency_ms": 5960,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:52+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1297,
+      "candidates_tokens": 26,
+      "thoughts_tokens": 233,
+      "total_tokens": 1556,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 7
+        }
+      ],
+      "cost_usd": 0.0010366,
+      "latency_ms": 3476,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:58+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 116,
+      "thoughts_tokens": 722,
+      "total_tokens": 2138,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.002485,
+      "latency_ms": 6681,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:16:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 16,
+      "thoughts_tokens": 184,
+      "total_tokens": 1504,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0008912,
+      "latency_ms": 38734,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:01+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 24,
+      "thoughts_tokens": 83,
+      "total_tokens": 1406,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0006572,
+      "latency_ms": 2462,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:01+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1308,
+      "candidates_tokens": 112,
+      "thoughts_tokens": 642,
+      "total_tokens": 2062,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0022774,
+      "latency_ms": 6074,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1297,
+      "candidates_tokens": 17,
+      "thoughts_tokens": 169,
+      "total_tokens": 1483,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008541,
+      "latency_ms": 3391,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 138,
+      "total_tokens": 1448,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0007644,
+      "latency_ms": 2058,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:08+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 89,
+      "thoughts_tokens": 662,
+      "total_tokens": 2057,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0022693,
+      "latency_ms": 6266,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:09+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 98,
+      "thoughts_tokens": 697,
+      "total_tokens": 2101,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        }
+      ],
+      "cost_usd": 0.0023793,
+      "latency_ms": 8014,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 13,
+      "thoughts_tokens": 83,
+      "total_tokens": 1394,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        }
+      ],
+      "cost_usd": 0.0006294,
+      "latency_ms": 2350,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 154,
+      "total_tokens": 1474,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000825,
+      "latency_ms": 2784,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 155,
+      "total_tokens": 1475,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008275,
+      "latency_ms": 3818,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1300,
+      "candidates_tokens": 99,
+      "thoughts_tokens": 728,
+      "total_tokens": 2127,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 10
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0024575,
+      "latency_ms": 12980,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:19+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 39,
+      "thoughts_tokens": 981,
+      "total_tokens": 2323,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0029409,
+      "latency_ms": 8941,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:23+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 654,
+      "total_tokens": 2007,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0021487,
+      "latency_ms": 6135,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:24+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 18,
+      "thoughts_tokens": 31,
+      "total_tokens": 1348,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005122,
+      "latency_ms": 1770,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 44,
+      "thoughts_tokens": 519,
+      "total_tokens": 1867,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0017987,
+      "latency_ms": 6776,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 23,
+      "thoughts_tokens": 196,
+      "total_tokens": 1517,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009369,
+      "latency_ms": 2763,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:29+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1298,
+      "candidates_tokens": 23,
+      "thoughts_tokens": 196,
+      "total_tokens": 1517,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0009369,
+      "latency_ms": 2975,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:38+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1302,
+      "candidates_tokens": 74,
+      "thoughts_tokens": 636,
+      "total_tokens": 2012,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 12
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0021656,
+      "latency_ms": 13976,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:17:47+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 94,
+      "total_tokens": 1485,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0007073,
+      "latency_ms": 2873,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:47+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1384,
+      "candidates_tokens": 106,
+      "thoughts_tokens": 147,
+      "total_tokens": 1637,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 94
+        }
+      ],
+      "cost_usd": 0.0010477,
+      "latency_ms": 3785,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:48+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 51,
+      "thoughts_tokens": 397,
+      "total_tokens": 1817,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0015307,
+      "latency_ms": 4740,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 81,
+      "thoughts_tokens": 146,
+      "total_tokens": 1596,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0009782,
+      "latency_ms": 3154,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:51+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1380,
+      "candidates_tokens": 82,
+      "thoughts_tokens": 419,
+      "total_tokens": 1881,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 90
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0016665,
+      "latency_ms": 4791,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:52+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 70,
+      "thoughts_tokens": 165,
+      "total_tokens": 1611,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        }
+      ],
+      "cost_usd": 0.0010003,
+      "latency_ms": 3388,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:54+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1367,
+      "candidates_tokens": 73,
+      "thoughts_tokens": 92,
+      "total_tokens": 1532,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 77
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008226,
+      "latency_ms": 2911,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:54+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1381,
+      "candidates_tokens": 92,
+      "thoughts_tokens": 98,
+      "total_tokens": 1571,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 91
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008893,
+      "latency_ms": 2935,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 45,
+      "thoughts_tokens": 94,
+      "total_tokens": 1505,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        }
+      ],
+      "cost_usd": 0.0007573,
+      "latency_ms": 2600,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 54,
+      "total_tokens": 1445,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        }
+      ],
+      "cost_usd": 0.0006073,
+      "latency_ms": 5315,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1383,
+      "candidates_tokens": 124,
+      "thoughts_tokens": 246,
+      "total_tokens": 1753,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 93
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0013399,
+      "latency_ms": 3805,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:17:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 39,
+      "thoughts_tokens": 64,
+      "total_tokens": 1472,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0006682,
+      "latency_ms": 2167,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:00+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 89,
+      "thoughts_tokens": 94,
+      "total_tokens": 1560,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0008706,
+      "latency_ms": 3344,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:01+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 27,
+      "thoughts_tokens": 135,
+      "total_tokens": 1540,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        }
+      ],
+      "cost_usd": 0.0008184,
+      "latency_ms": 4012,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1367,
+      "candidates_tokens": 32,
+      "thoughts_tokens": 131,
+      "total_tokens": 1530,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 77
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008176,
+      "latency_ms": 2750,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 47,
+      "thoughts_tokens": 71,
+      "total_tokens": 1484,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        }
+      ],
+      "cost_usd": 0.0007048,
+      "latency_ms": 2257,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:04+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 57,
+      "thoughts_tokens": 121,
+      "total_tokens": 1554,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        }
+      ],
+      "cost_usd": 0.0008578,
+      "latency_ms": 3385,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:05+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1372,
+      "candidates_tokens": 50,
+      "thoughts_tokens": 127,
+      "total_tokens": 1549,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 82
+        }
+      ],
+      "cost_usd": 0.0008541,
+      "latency_ms": 2871,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:06+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 53,
+      "thoughts_tokens": 120,
+      "total_tokens": 1542,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0008432,
+      "latency_ms": 2578,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1380,
+      "candidates_tokens": 80,
+      "thoughts_tokens": 101,
+      "total_tokens": 1561,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 90
+        }
+      ],
+      "cost_usd": 0.0008665,
+      "latency_ms": 3049,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:07+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 44,
+      "thoughts_tokens": 23,
+      "total_tokens": 1433,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005773,
+      "latency_ms": 1866,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:08+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1365,
+      "candidates_tokens": 23,
+      "thoughts_tokens": 29,
+      "total_tokens": 1417,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 75
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005395,
+      "latency_ms": 1433,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:10+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1380,
+      "candidates_tokens": 75,
+      "thoughts_tokens": 155,
+      "total_tokens": 1610,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 90
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000989,
+      "latency_ms": 2746,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1384,
+      "candidates_tokens": 103,
+      "thoughts_tokens": 196,
+      "total_tokens": 1683,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 94
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0011627,
+      "latency_ms": 4585,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 30,
+      "thoughts_tokens": 34,
+      "total_tokens": 1430,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005698,
+      "latency_ms": 3405,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 42,
+      "thoughts_tokens": 139,
+      "total_tokens": 1557,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008653,
+      "latency_ms": 2877,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:13+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 31,
+      "thoughts_tokens": 74,
+      "total_tokens": 1473,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006729,
+      "latency_ms": 2158,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1379,
+      "candidates_tokens": 90,
+      "thoughts_tokens": 168,
+      "total_tokens": 1637,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 89
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0010587,
+      "latency_ms": 3054,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 131,
+      "thoughts_tokens": 59,
+      "total_tokens": 1564,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        }
+      ],
+      "cost_usd": 0.0008872,
+      "latency_ms": 2874,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 44,
+      "thoughts_tokens": 44,
+      "total_tokens": 1454,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006298,
+      "latency_ms": 4246,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 27,
+      "thoughts_tokens": 69,
+      "total_tokens": 1462,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        }
+      ],
+      "cost_usd": 0.0006498,
+      "latency_ms": 2466,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:19+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 41,
+      "thoughts_tokens": 32,
+      "total_tokens": 1441,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0005929,
+      "latency_ms": 1798,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:20+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 138,
+      "thoughts_tokens": 158,
+      "total_tokens": 1673,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0011531,
+      "latency_ms": 4006,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:20+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1377,
+      "candidates_tokens": 100,
+      "thoughts_tokens": 119,
+      "total_tokens": 1596,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 87
+        }
+      ],
+      "cost_usd": 0.0009606,
+      "latency_ms": 2982,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:22+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1366,
+      "candidates_tokens": 41,
+      "thoughts_tokens": 43,
+      "total_tokens": 1450,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 76
+        }
+      ],
+      "cost_usd": 0.0006198,
+      "latency_ms": 2297,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:23+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 162,
+      "total_tokens": 1580,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        }
+      ],
+      "cost_usd": 0.0009184,
+      "latency_ms": 2752,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:25+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 183,
+      "total_tokens": 1591,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0009679,
+      "latency_ms": 2648,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 94,
+      "thoughts_tokens": 149,
+      "total_tokens": 1619,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        }
+      ],
+      "cost_usd": 0.0010203,
+      "latency_ms": 3388,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:28+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 141,
+      "total_tokens": 1557,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008653,
+      "latency_ms": 2394,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:28+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 27,
+      "thoughts_tokens": 69,
+      "total_tokens": 1470,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        }
+      ],
+      "cost_usd": 0.0006522,
+      "latency_ms": 2003,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:31+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 93,
+      "thoughts_tokens": 99,
+      "total_tokens": 1566,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        }
+      ],
+      "cost_usd": 0.0008922,
+      "latency_ms": 2897,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:33+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 35,
+      "total_tokens": 1416,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005282,
+      "latency_ms": 2007,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:33+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 80,
+      "thoughts_tokens": 542,
+      "total_tokens": 1996,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0019672,
+      "latency_ms": 5125,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:35+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 41,
+      "total_tokens": 1422,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005432,
+      "latency_ms": 1972,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:35+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1371,
+      "candidates_tokens": 60,
+      "thoughts_tokens": 140,
+      "total_tokens": 1571,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 81
+        }
+      ],
+      "cost_usd": 0.0009113,
+      "latency_ms": 2555,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:37+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 36,
+      "thoughts_tokens": 120,
+      "total_tokens": 1529,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        }
+      ],
+      "cost_usd": 0.0008019,
+      "latency_ms": 2257,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:40+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 34,
+      "thoughts_tokens": 37,
+      "total_tokens": 1439,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005879,
+      "latency_ms": 21681,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:41+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 73,
+      "thoughts_tokens": 132,
+      "total_tokens": 1578,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        }
+      ],
+      "cost_usd": 0.0009244,
+      "latency_ms": 3170,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:42+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 28,
+      "thoughts_tokens": 88,
+      "total_tokens": 1485,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        }
+      ],
+      "cost_usd": 0.0007007,
+      "latency_ms": 1838,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:43+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 48,
+      "thoughts_tokens": 160,
+      "total_tokens": 1586,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        }
+      ],
+      "cost_usd": 0.0009334,
+      "latency_ms": 2668,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:45+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 36,
+      "thoughts_tokens": 120,
+      "total_tokens": 1529,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008019,
+      "latency_ms": 2276,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:46+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1378,
+      "candidates_tokens": 55,
+      "thoughts_tokens": 318,
+      "total_tokens": 1751,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 88
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0013459,
+      "latency_ms": 3703,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:46+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1367,
+      "candidates_tokens": 26,
+      "thoughts_tokens": 133,
+      "total_tokens": 1526,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 77
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008076,
+      "latency_ms": 3178,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:48+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 113,
+      "thoughts_tokens": 119,
+      "total_tokens": 1602,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.000991,
+      "latency_ms": 3216,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:48+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1367,
+      "candidates_tokens": 26,
+      "thoughts_tokens": 109,
+      "total_tokens": 1502,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 77
+        }
+      ],
+      "cost_usd": 0.0007476,
+      "latency_ms": 2657,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:49+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 24,
+      "thoughts_tokens": 68,
+      "total_tokens": 1461,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006407,
+      "latency_ms": 2044,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:50+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 11,
+      "thoughts_tokens": 49,
+      "total_tokens": 1428,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005604,
+      "latency_ms": 1754,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:52+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 133,
+      "thoughts_tokens": 60,
+      "total_tokens": 1569,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0008953,
+      "latency_ms": 3288,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:52+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 35,
+      "thoughts_tokens": 55,
+      "total_tokens": 1460,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.000636,
+      "latency_ms": 2032,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:53+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1376,
+      "candidates_tokens": 111,
+      "thoughts_tokens": 399,
+      "total_tokens": 1886,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 86
+        }
+      ],
+      "cost_usd": 0.0016878,
+      "latency_ms": 5101,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:54+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 40,
+      "total_tokens": 1420,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0005404,
+      "latency_ms": 2668,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:55+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 16,
+      "thoughts_tokens": 191,
+      "total_tokens": 1577,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.0009285,
+      "latency_ms": 2969,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:56+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1370,
+      "candidates_tokens": 16,
+      "thoughts_tokens": 108,
+      "total_tokens": 1494,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 80
+        }
+      ],
+      "cost_usd": 0.000721,
+      "latency_ms": 1838,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:57+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1369,
+      "candidates_tokens": 18,
+      "thoughts_tokens": 65,
+      "total_tokens": 1452,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 79
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0006182,
+      "latency_ms": 1960,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:58+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 31,
+      "total_tokens": 1430,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        }
+      ],
+      "cost_usd": 0.0005522,
+      "latency_ms": 1751,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:18:59+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1374,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 31,
+      "total_tokens": 1430,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 84
+        }
+      ],
+      "cost_usd": 0.0005522,
+      "latency_ms": 2159,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:19:00+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 82,
+      "total_tokens": 1490,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0007154,
+      "latency_ms": 2428,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:19:02+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1372,
+      "candidates_tokens": 70,
+      "thoughts_tokens": 145,
+      "total_tokens": 1587,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 82
+        }
+      ],
+      "cost_usd": 0.0009491,
+      "latency_ms": 2647,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:19:03+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1368,
+      "candidates_tokens": 40,
+      "thoughts_tokens": 82,
+      "total_tokens": 1490,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 78
+        }
+      ],
+      "cost_usd": 0.0007154,
+      "latency_ms": 2495,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:19:05+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1373,
+      "candidates_tokens": 150,
+      "thoughts_tokens": 180,
+      "total_tokens": 1703,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 83
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0012369,
+      "latency_ms": 12222,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": true
+    },
+    {
+      "ts": "2026-10-21T09:19:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 18,
+      "candidates_tokens": 24,
+      "thoughts_tokens": 109,
+      "total_tokens": 151,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 18
+        }
+      ],
+      "cost_usd": 0.0003379,
+      "latency_ms": 2056,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 21,
+      "candidates_tokens": 61,
+      "thoughts_tokens": 213,
+      "total_tokens": 295,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 21
+        }
+      ],
+      "cost_usd": 0.0006913,
+      "latency_ms": 3762,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:16+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 32,
+      "candidates_tokens": 94,
+      "thoughts_tokens": 684,
+      "total_tokens": 810,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 32
+        }
+      ],
+      "cost_usd": 0.0019546,
+      "latency_ms": 5440,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 20,
+      "candidates_tokens": 42,
+      "thoughts_tokens": 327,
+      "total_tokens": 389,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 20
+        }
+      ],
+      "cost_usd": 0.0009285,
+      "latency_ms": 4250,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:17+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 36,
+      "candidates_tokens": 161,
+      "thoughts_tokens": 859,
+      "total_tokens": 1056,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 36
+        }
+      ],
+      "cost_usd": 0.0025608,
+      "latency_ms": 8025,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:19+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 26,
+      "candidates_tokens": 4,
+      "thoughts_tokens": 121,
+      "total_tokens": 151,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 26
+        }
+      ],
+      "cost_usd": 0.0003203,
+      "latency_ms": 1843,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:20+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 21,
+      "candidates_tokens": 33,
+      "thoughts_tokens": 59,
+      "total_tokens": 113,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 21
+        }
+      ],
+      "cost_usd": 0.0002363,
+      "latency_ms": 1430,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:21+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 31,
+      "candidates_tokens": 50,
+      "thoughts_tokens": 606,
+      "total_tokens": 687,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 31
+        }
+      ],
+      "cost_usd": 0.0016493,
+      "latency_ms": 5027,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:24+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 26,
+      "candidates_tokens": 118,
+      "thoughts_tokens": 862,
+      "total_tokens": 1006,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 26
+        }
+      ],
+      "cost_usd": 0.0024578,
+      "latency_ms": 7186,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:25+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 19,
+      "candidates_tokens": 38,
+      "thoughts_tokens": 247,
+      "total_tokens": 304,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 19
+        }
+      ],
+      "cost_usd": 0.0007182,
+      "latency_ms": 3908,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:27+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 25,
+      "candidates_tokens": 73,
+      "thoughts_tokens": 872,
+      "total_tokens": 970,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 25
+        }
+      ],
+      "cost_usd": 0.00237,
+      "latency_ms": 6898,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:31+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 22,
+      "candidates_tokens": 239,
+      "thoughts_tokens": 781,
+      "total_tokens": 1042,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 22
+        }
+      ],
+      "cost_usd": 0.0025566,
+      "latency_ms": 7492,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": false,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:37+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 423,
+      "total_tokens": 1744,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0015088,
+      "latency_ms": 4501,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:40+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 99,
+      "thoughts_tokens": 666,
+      "total_tokens": 2071,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0023043,
+      "latency_ms": 7481,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:41+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 112,
+      "thoughts_tokens": 908,
+      "total_tokens": 2334,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0029442,
+      "latency_ms": 8701,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:43+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 90,
+      "thoughts_tokens": 783,
+      "total_tokens": 2179,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0025743,
+      "latency_ms": 6604,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:46+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 49,
+      "thoughts_tokens": 500,
+      "total_tokens": 1855,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        }
+      ],
+      "cost_usd": 0.0017643,
+      "latency_ms": 4749,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:46+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 20,
+      "thoughts_tokens": 201,
+      "total_tokens": 1525,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0009437,
+      "latency_ms": 2834,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:47+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1309,
+      "candidates_tokens": 54,
+      "thoughts_tokens": 587,
+      "total_tokens": 1950,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 19
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0019952,
+      "latency_ms": 7503,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:19:52+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 87,
+      "thoughts_tokens": 802,
+      "total_tokens": 2193,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0026137,
+      "latency_ms": 6910,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:09+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1296,
+      "candidates_tokens": 25,
+      "thoughts_tokens": 423,
+      "total_tokens": 1744,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 6
+        }
+      ],
+      "cost_usd": 0.0015088,
+      "latency_ms": 4340,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:11+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 99,
+      "thoughts_tokens": 666,
+      "total_tokens": 2071,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0023043,
+      "latency_ms": 6456,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:12+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1314,
+      "candidates_tokens": 112,
+      "thoughts_tokens": 908,
+      "total_tokens": 2334,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 24
+        }
+      ],
+      "cost_usd": 0.0029442,
+      "latency_ms": 7746,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:15+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 90,
+      "thoughts_tokens": 783,
+      "total_tokens": 2179,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0025743,
+      "latency_ms": 6129,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:18+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 36,
+      "thoughts_tokens": 260,
+      "total_tokens": 1600,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        }
+      ],
+      "cost_usd": 0.0011312,
+      "latency_ms": 2564,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:19+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1306,
+      "candidates_tokens": 54,
+      "thoughts_tokens": 663,
+      "total_tokens": 2023,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 16
+        }
+      ],
+      "cost_usd": 0.0021843,
+      "latency_ms": 6059,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:21+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1299,
+      "candidates_tokens": 12,
+      "thoughts_tokens": 163,
+      "total_tokens": 1474,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 9
+        }
+      ],
+      "cost_usd": 0.0008272,
+      "latency_ms": 2024,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:21+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1309,
+      "candidates_tokens": 175,
+      "thoughts_tokens": 845,
+      "total_tokens": 2329,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 19
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0029427,
+      "latency_ms": 9884,
+      "finish": "MAX_TOKENS",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:26+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1303,
+      "candidates_tokens": 104,
+      "thoughts_tokens": 590,
+      "total_tokens": 1997,
+      "modalities": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 13
+        }
+      ],
+      "cost_usd": 0.0021259,
+      "latency_ms": 5457,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    },
+    {
+      "ts": "2026-10-21T09:20:33+00:00",
+      "project": "YOUR_GCP_PROJECT",
+      "location": "global",
+      "model": "gemini-2.5-flash",
+      "model_version": "gemini-2.5-flash",
+      "prompt_tokens": 1304,
+      "candidates_tokens": 87,
+      "thoughts_tokens": 802,
+      "total_tokens": 2193,
+      "modalities": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 14
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1290
+        }
+      ],
+      "cost_usd": 0.0026137,
+      "latency_ms": 15616,
+      "finish": "STOP",
+      "safety": [],
+      "image_present": true,
+      "system_present": false
+    }
+  ]
+}

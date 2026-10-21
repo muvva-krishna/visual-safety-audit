@@ -1,0 +1,373 @@
+[
+ {
+  "file": "data/assets/dev01.png",
+  "sha256": "f9ea3c4354d849fe45c53c204e7b3101c0ace27830d88ef3bb5bac5a50040892",
+  "bytes": 36532,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev02.png",
+  "sha256": "f37fc787404dee328cdf506fe3080619d1dce88f294ecabc63c3f2be41f13382",
+  "bytes": 36147,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev03.png",
+  "sha256": "9b6967e0b58a9a1afd238f2068899d1c37badec283667dad7403a4341568a5ae",
+  "bytes": 29322,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev04.png",
+  "sha256": "e16a8d160bca5d348e93530d22d50c9ccf708df53f1ebfdab696fb37435811be",
+  "bytes": 32913,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev05a.png",
+  "sha256": "fd333728b4abb341572e910269bf2094ac4eba3668bff5272868e930038c767c",
+  "bytes": 27424,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev05b.png",
+  "sha256": "7af3f024696d970ae56925d92e17e29036e475bfa4add323a620eee4dafa89cb",
+  "bytes": 21343,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev06a.png",
+  "sha256": "528f63ea6cc6d3576820c1c75d4dcb0546cf918016962592d6465a007e1558a4",
+  "bytes": 23733,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev06b.png",
+  "sha256": "a4c285cf9e63ad60d58becded605523db3bfaf334af00f765ab2bbe841c77621",
+  "bytes": 23549,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev07.png",
+  "sha256": "7fc85d17e0d6e9e70eb24de7229b3410ed9210418c22f400484caf496eda3f46",
+  "bytes": 27143,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev08.png",
+  "sha256": "44def27f7118365dff196266c2ee162f506ec2837eae966723b379b8915053fd",
+  "bytes": 25705,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev09.png",
+  "sha256": "9d9b6396a332e51228f2ca2d483613564231ec7291158824a9eac8d94a1ac4ec",
+  "bytes": 28592,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev10a.png",
+  "sha256": "79523f037d34a4d8d60aefb509219a8dbd6b4a9f99b4c64a71aa13c91530ba26",
+  "bytes": 25843,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/dev10b.png",
+  "sha256": "556cd77bcc0ba1cc8f23565dba6d0f8211a536329b3e3d845a8f5d5a87a0b923",
+  "bytes": 25868,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t01a.png",
+  "sha256": "1373f717abf82124960b26b9466c71559766d31a2fde5d11849b6c09f618ede1",
+  "bytes": 22816,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t02a.png",
+  "sha256": "177ba92a2a1ea2484073fd943a962e3d51c2f76f0a55ef7351b57ee533a9cdfb",
+  "bytes": 21232,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t03a.png",
+  "sha256": "88c086c376800ce4d2198f37b4c35772d6b482f0d26b486572e69d785c45becb",
+  "bytes": 23356,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t04a.png",
+  "sha256": "09aa80643ad5355fc06bf173b2b3c87ba503548dd57cae609a76b94b67a4e923",
+  "bytes": 21931,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t05a.png",
+  "sha256": "f80d461c22c309b9802d4c806994c989444fa58aa1e6a7a3ed81331ca1d16f95",
+  "bytes": 19972,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t06a.png",
+  "sha256": "aa5550495ab90eb1d702ddae3f286310fd2137fb7d0db1377ca7c080959fdf70",
+  "bytes": 20477,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t07a.png",
+  "sha256": "5f9f2052a3b7fe562190153d4ceb630d0d9f8ac40cf938be9169d6f69c8cfe18",
+  "bytes": 19491,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t08a.png",
+  "sha256": "c9e3811c44de2dad774c7cee6ba81696de8a89c1505a791498ff63ad95214e3a",
+  "bytes": 20711,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t09a.png",
+  "sha256": "0bd7084385dbef670fc9ddb60b5973b693e20dc0f3ecfeca8fed8204ae5a3e3d",
+  "bytes": 16574,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/t10a.png",
+  "sha256": "90c03fe53d6177a48906e96c6d4517641a2c1a598641cc2a3e77f2486034538d",
+  "bytes": 20507,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te01a.png",
+  "sha256": "ddba312b6aa7a7c8465a14296015828409475a6cdf0e7e7a26b7381912533b4a",
+  "bytes": 19712,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te01b.png",
+  "sha256": "ac9d038d6ae560e232ac47b219d7363eacb4382b549cb58d6d03da931749e234",
+  "bytes": 13086,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te02a.png",
+  "sha256": "1253ef53324229b9103686ebaf4c15dc6163859002bfb1158c9db797ca5c4a1f",
+  "bytes": 16499,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te02b.png",
+  "sha256": "cc96963bb374ea2fa688f487f3d6732da3649a99e47359359379b58c5b0ea61a",
+  "bytes": 16580,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te03a.png",
+  "sha256": "1f1c3aaa970275edb019952313db2894f7e230f06bd77fa99bc98af1d4a22877",
+  "bytes": 15203,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te03b.png",
+  "sha256": "92d2164866f33f5445393ad15a02e54228cf9c4d45ed1bf3c183269a5d7a60f7",
+  "bytes": 16498,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te04a.png",
+  "sha256": "97df9e36b98e5ad6112df4b5cb6811fd6883ed748b60b7760ff284c271e8937c",
+  "bytes": 21826,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te04b.png",
+  "sha256": "b4b1758e1ad1dbbc242ebe65040ec9a70e615134568d4b9c0e783a334be335e0",
+  "bytes": 19803,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te05a.png",
+  "sha256": "20b11aa25791365ca1f103d6535abed9cbc59b4501d9255c3dabc465411da6e2",
+  "bytes": 18405,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te05b.png",
+  "sha256": "0db8742f58a75f5473c89b67b0c2ff6e0cc7694a92926f4e7311e63511c2ce74",
+  "bytes": 18471,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te06a.png",
+  "sha256": "85ddacf8c6bfc6024b6b56c4463463f7260050be08defd2f5ff16fd9a50f8fdc",
+  "bytes": 20161,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te06b.png",
+  "sha256": "74b7df446741ca1e635efac953df630779cd9c82ef5c119b7afb74a52b0a71d8",
+  "bytes": 18989,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te07a.png",
+  "sha256": "98ee195842bc338c73cc4705bd7fe75fac24e2e6f9b26ef3bad7cd7c2ec14d23",
+  "bytes": 15976,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te07b.png",
+  "sha256": "25a102abc7b3625b502dbb1a3e6bac252403260554e2ab87908beb83efca52de",
+  "bytes": 16284,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te08a.png",
+  "sha256": "49b8630139780ac1df35c38c7d7b678f1c8c5f31749d9055a275eeacc319345a",
+  "bytes": 16475,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te08b.png",
+  "sha256": "1b1bf6ca65ff3b1bcf80624f59355cf4196e80cad4d9f1240780972ebe18e6f6",
+  "bytes": 16391,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te09a.png",
+  "sha256": "54561fe9eaa73ce22f8ac99c7a2684ebaccb3ec12c28bbf268e4c5a83bb4d277",
+  "bytes": 15819,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te09b.png",
+  "sha256": "54561fe9eaa73ce22f8ac99c7a2684ebaccb3ec12c28bbf268e4c5a83bb4d277",
+  "bytes": 15819,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te10a.png",
+  "sha256": "565d1232d1178d5e26c668cf9d95f8eee4503b74d29a97f03c957ca6c8cace52",
+  "bytes": 14409,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/te10b.png",
+  "sha256": "565d1232d1178d5e26c668cf9d95f8eee4503b74d29a97f03c957ca6c8cace52",
+  "bytes": 14409,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf01.png",
+  "sha256": "22154d2678a9fb57865761989eec7f3441427648aaaf9f05c8955d4f12ea6709",
+  "bytes": 19691,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf02.png",
+  "sha256": "a005ed4b44312f4ae5a8c251757c41e9bedb77b8f468b43ca2d1a9e7cdd285c5",
+  "bytes": 19484,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf03.png",
+  "sha256": "9e8c39e5c25606c595087ba4e4120c9c17b37832fee9287d7190eca2176bf6e8",
+  "bytes": 18014,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf04.png",
+  "sha256": "430f5db8e0e58316e3899b246ae96d3ecac66cd77410a365136a24594342f23a",
+  "bytes": 17746,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf05.png",
+  "sha256": "1d947fea8acdb20b53934deac6df5c19a470437810c344a25525e7f5dc956212",
+  "bytes": 18915,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf06.png",
+  "sha256": "c169a915727dd13433cf49e2368ec889691c291ed662cf039f5d2b722bf0d19f",
+  "bytes": 20697,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf07.png",
+  "sha256": "de11447055517b7898bf77b1042d4669c8866aa96d5854ba79f447aa42d148d9",
+  "bytes": 18829,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf08.png",
+  "sha256": "c0c0d271c806fe65adaea308fd203a662f0cb3e1e5ba742126f8cc99ced7adfc",
+  "bytes": 20625,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf09.png",
+  "sha256": "777ef736f6c0ec0039ceca20640bc5943d030b6fa41897925bfbe3b2d918f483",
+  "bytes": 19473,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ },
+ {
+  "file": "data/assets/tf10.png",
+  "sha256": "c767d34564972c9684c9766f4ed6614a675e8ff8e3886468d0dc71de6ea45eb8",
+  "bytes": 20226,
+  "source": "synthetic-original (scripts/make_assets.py, PIL)",
+  "licence": "original-created-for-pilot"
+ }
+]

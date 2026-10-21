@@ -1,0 +1,28 @@
+# promptfoo — fixed-case record for the locked eval.
+# Licence: promptfoo is Apache-2.0.
+# NOTE (run 2 correction): the executed runner is scripts/run_eval.py (ADC,
+# stdlib-only), because the promptfoo binary is not installed in this environment.
+# This file is an accurate declarative record, not a separately executed path:
+# - cases: data/cases.jsonl (93 fixed rows: 10 dev + 30 locked families incl. variants)
+# - baseline = user request text + image, temperature 0.0, maxOutputTokens 1024
+# - mitigation = identical + systemInstruction from prompts/mitigation.txt
+# - text-ablation = identical request text, NO image, no extra note
+# To execute with promptfoo when available: promptfoo eval -c promptfoo.yaml
+# Provider: Vertex AI project YOUR_GCP_PROJECT, location global,
+# model gemini-2.5-flash. Never point this at Elorian/Glimpse.
+
+prompts:
+  - file://prompts/baseline.txt
+  - file://prompts/mitigation.txt
+
+providers:
+  - id: vertex:gemini-2.5-flash
+    label: baseline-gemini-2.5-flash-global
+    config:
+      project: YOUR_GCP_PROJECT
+      location: global
+      temperature: 0.0
+      maxOutputTokens: 1024
+
+tests:
+  - file://data/cases.jsonl
